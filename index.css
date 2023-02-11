@@ -1,0 +1,119 @@
+.content1 {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+}
+.container {
+  width: 100%;
+  max-width: 960px;
+  margin: auto;
+}
+.upper-whole-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.upper-left-nav {
+  display: flex;
+  align-items: center;
+}
+.upper-mid-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content1 ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.upper-whole-nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  /* background-color: blue; */
+}
+.content2 {
+  display: grid;
+  grid-template-columns: 20% 60% 20%;
+  border-bottom: 1px solid gray;
+}
+.mid-left-nav {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.mid-mid-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Sofia Sans", sans-serif;
+}
+.mid-right-nav {
+  display: flex;
+  align-items: right;
+  justify-content: right;
+}
+ul.bottom-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  list-style: none;
+}
+.content3 {
+  display: grid;
+  width: 100%;
+  grid-template-columns: 3fr 1fr;
+}
+.chinese-air-balloon {
+  border-bottom: 1px solid gray;
+}
+.earthquake {
+  border-bottom: 1px solid gray;
+}
+.hogwarts {
+  border-bottom: 1px solid gray;
+}
+.america {
+  border-bottom: 1px solid gray;
+}
+.george-santos {
+  border-bottom: 1px solid gray;
+}
+.paul {
+  border-bottom: 1px solid gray;
+}
+
+.fetterman {
+  border-bottom: 1px solid gray;
+}
+
+.erdogans {
+  border-bottom: 1px solid gray;
+}
+.piano {
+  border-bottom: 1px solid gray;
+}
+.fetterman2 {
+  border-bottom: 1px solid gray;
+}
+.children {
+  border-bottom: 1px solid gray;
+}
+.irs {
+  border-bottom: 1px solid gray;
+}
+.florida {
+  border-bottom: 1px solid gray;
+}
+.roberto {
+  border-bottom: 1px solid gray;
+}

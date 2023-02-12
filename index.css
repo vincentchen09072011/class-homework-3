@@ -19,6 +19,9 @@
   display: flex;
   align-items: center;
 }
+.upper-left nav i:first-type-of {
+  margin-right: 8px
+}
 .upper-mid-nav {
   display: flex;
   justify-content: center;
